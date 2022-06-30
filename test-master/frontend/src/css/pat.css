@@ -1,0 +1,5 @@
+.BGGradient {
+    width: 100%;
+    background-image: linear-gradient(to bottom, #ffffff, #f89898);
+    min-height: 90vh;
+}
